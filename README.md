@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a 3rd-year Btech cse student. I am Passionate Programmer in C++ and Python. I want to gain more and more knowledge on programming and also want to implement my knowledge for the betterment of myself. I am pretty confident within a few years I'll be able to add some value to my future company and do work for the betterment of humanity.
+I am currently a 4th-year Btech CSE student. I am Passionate Programmer in C++ and Java. I want to gain more and more knowledge on programming and also want to implement my knowledge for the betterment of myself. I am pretty confident within a few years I'll be able to add some value to my future company and do work for the betterment of humanity.
 
 
 ## 🌐 Socials:
